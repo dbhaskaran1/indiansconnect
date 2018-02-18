@@ -1,1 +1,4 @@
 *.pyc
+__pycache__
+indiansconnect/__pycache__/settings.cpython-36.pyc
+indiansconnect/__pycache__/urls.cpython-36.pyc
