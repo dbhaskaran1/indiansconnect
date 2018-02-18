@@ -156,9 +156,9 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: lightgray;
-  background: url("../img/bg-pattern.png"), #7b4397;
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
+  background: url("../img/bg-pattern.png"), #438b97;
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #438b97, #4524dc);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #438b97, #4524dc);
 }
 
 header.masthead .header-content {
@@ -198,11 +198,6 @@ header.masthead .device-container .screen img {
   header.masthead .device-container {
     max-width: 325px;
   }
-}
-
-section.networking {
-  position: relative;
-  height: 100vh;
 }
 
 section.networking h2 {
